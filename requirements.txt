@@ -1,0 +1,8 @@
+elasticsearch
+numpy
+pandas
+scikit-learn
+torch
+transformers
+flask
+sentence-transformers
