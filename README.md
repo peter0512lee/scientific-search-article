@@ -4,6 +4,8 @@
 
 This project implements a hybrid search system for scientific articles, combining traditional full-text search with modern embedding-based semantic search. The system is designed to provide more relevant and diverse search results by leveraging the strengths of both search methods.
 
+![demo](./img/demo.gif)
+
 ## Features
 
 - Full-text search using Elasticsearch
