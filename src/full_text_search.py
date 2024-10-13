@@ -54,8 +54,8 @@ def main():
     # Replace with your actual credentials
     fts = FullTextSearch(
         host='http://localhost:9200',
-        username='elastic',
-        password='yPks5m1u'
+        username='',
+        password=''
     )
 
     # Create index and index data
