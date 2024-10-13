@@ -58,8 +58,8 @@ class HybridSearch:
 def main():
     hybrid_search = HybridSearch(
         es_host='http://localhost:9200',
-        es_username='elastic',  # Replace with your actual username
-        es_password='yPks5m1u'  # Replace with your actual password
+        es_username='',  # Replace with your actual username
+        es_password=''  # Replace with your actual password
     )
 
     print("Loading and indexing data...")
